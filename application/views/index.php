@@ -1656,7 +1656,7 @@ function check_submit(get_id)
 	<section class="footer-box">
 		<div class="container">
 			<div class="row first-row-footer">
-				<div class="col-lg-4 col-md-4 three-block">
+				<div class="col-lg-3 col-md-3 three-block">
 
 					<h5 class="foot-small-tit">
 						Our corporate office
@@ -1667,7 +1667,7 @@ function check_submit(get_id)
 						Uttar Pradesh, India
 					</h2>
 				</div>
-				<div class="col-lg-4 col-md-4 three-block">
+				<div class="col-lg-3 col-md-3 three-block">
 					
 					<h5 class="foot-small-tit">
 						Our regional offices
@@ -1680,7 +1680,7 @@ function check_submit(get_id)
 					</h2>
 				</div>
 
-				<div class="col-lg-4 col-md-4 three-block">
+				<div class="col-lg-3 col-md-3 three-block">
 					
 					<h5 class="foot-small-tit">
 						Let's Talk
